@@ -1,0 +1,4535 @@
+{
+    "activities": [
+        {
+            "name": "preload.ts - time-tracker-beta - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:18:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-12-07 18:18:27"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:18:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 18:18:55"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:19:14",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 18:19:12"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:19:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 18,
+                    "start_time": "2022-12-07 18:19:15"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:20:37",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2022-12-07 18:20:31"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:57:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-12-07 18:57:14"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:57:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-12-07 18:57:23"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:44:45",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 13,
+                    "start_time": "2022-12-07 19:44:32"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:44:51",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 19:44:50"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:44:57",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 19:44:55"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:45:12",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 19:45:09"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:52:35",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 19:52:33"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:55:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 58,
+                    "start_time": "2022-12-07 19:54:59"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:57:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 19:57:50"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:17:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "start_time": "2022-12-07 20:17:36"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:18:16",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2022-12-07 20:18:09"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:18:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 20:18:37"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:18:52",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2022-12-07 20:18:43"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:35:17",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 17,
+                    "start_time": "2022-12-07 20:35:00"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:35:25",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2022-12-07 20:35:18"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:36:02",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 31,
+                    "start_time": "2022-12-07 20:35:31"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:37:36",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:37:35"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:38:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:38:26"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:38:51",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2022-12-07 20:38:44"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:39:24",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:39:22"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:39:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:39:26"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:47:38",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 14,
+                    "start_time": "2022-12-07 20:47:24"
+                }
+            ]
+        },
+        {
+            "name": "Time Tracker",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:18:55",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 22,
+                    "start_time": "2022-12-07 18:18:33"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:19:00",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 18:18:59"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:19:39",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2022-12-07 18:19:33"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:19:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 18:19:40"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:20:30",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 26,
+                    "start_time": "2022-12-07 18:20:04"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:49:25",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2022-12-07 18:49:19"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:51:39",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-12-07 18:51:35"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:58:34",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-12-07 18:58:29"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:00:20",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 19:00:17"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:40:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 13,
+                    "start_time": "2022-12-07 19:40:33"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:42:01",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 19:41:58"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:42:24",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 19:42:23"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:42:51",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2022-12-07 19:42:41"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:43:37",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2022-12-07 19:43:27"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:44:12",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 18,
+                    "start_time": "2022-12-07 19:43:54"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:45:06",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2022-12-07 19:44:57"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:47:30",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 32,
+                    "start_time": "2022-12-07 19:46:58"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:48:14",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 30,
+                    "start_time": "2022-12-07 19:47:44"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:49:00",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2022-12-07 19:48:51"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:49:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2022-12-07 19:49:04"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:49:24",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 19:49:22"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:49:30",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-12-07 19:49:26"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:53:18",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-12-07 19:53:13"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:54:17",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2022-12-07 19:54:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:56:37",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2022-12-07 19:56:30"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:59:35",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2022-12-07 19:59:28"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:01:08",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 17,
+                    "start_time": "2022-12-07 19:59:50"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:01:20",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-12-07 20:01:15"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:01:22",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:01:21"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:01:45",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2022-12-07 20:01:39"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:01:57",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-12-07 20:01:52"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:02:59",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-12-07 20:02:55"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:03:20",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2022-12-07 20:03:12"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:04:57",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 15,
+                    "start_time": "2022-12-07 20:04:42"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:05:21",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "start_time": "2022-12-07 20:05:10"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:05:36",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:05:34"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:05:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "start_time": "2022-12-07 20:05:42"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:06:23",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:06:21"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:06:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 20:06:24"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:06:34",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-12-07 20:06:30"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:07:00",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-12-07 20:06:56"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:07:07",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-12-07 20:07:03"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:07:12",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 20:07:09"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:07:17",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:07:15"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:07:39",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 19,
+                    "start_time": "2022-12-07 20:07:20"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:07:49",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:07:48"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:08:02",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 12,
+                    "start_time": "2022-12-07 20:07:50"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:08:40",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:08:38"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:08:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:08:41"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:08:55",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:08:53"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:09:00",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-12-07 20:08:56"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:09:08",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:09:06"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:09:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 29,
+                    "start_time": "2022-12-07 20:09:24"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:09:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-12-07 20:09:54"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:10:40",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 37,
+                    "start_time": "2022-12-07 20:10:02"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:11:16",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 35,
+                    "start_time": "2022-12-07 20:10:41"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:12:06",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 12,
+                    "start_time": "2022-12-07 20:11:54"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:12:22",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "start_time": "2022-12-07 20:12:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:12:30",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-12-07 20:12:26"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:12:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2022-12-07 20:12:34"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:12:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2022-12-07 20:12:43"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:12:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:12:57"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:13:13",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 20:13:10"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:13:20",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-12-07 20:13:15"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:15:45",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 12,
+                    "start_time": "2022-12-07 20:15:33"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:16:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 12,
+                    "start_time": "2022-12-07 20:16:07"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:16:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "start_time": "2022-12-07 20:16:43"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:17:01",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-12-07 20:16:57"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:20:15",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:20:14"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:20:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:20:26"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:20:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:20:28"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:34:14",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 20:34:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:34:18",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:34:17"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:34:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:34:25"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:35:18",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:35:17"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:35:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-12-07 20:35:26"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:40:55",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 28,
+                    "start_time": "2022-12-07 20:40:27"
+                }
+            ]
+        },
+        {
+            "name": "activities.json - time-tracker-beta - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:18:59",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 18:18:58"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:19:12",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 12,
+                    "start_time": "2022-12-07 18:19:00"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:22:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 15,
+                    "start_time": "2022-12-07 18:22:39"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:03:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 20:03:24"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:03:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-12-07 20:03:28"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:03:38",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 20:03:35"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:03:40",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:03:39"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:03:55",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:03:53"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:03:57",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:03:56"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:04:59",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:04:57"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:07:45",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:07:43"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:07:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:07:46"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:07:50",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:07:49"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:08:03",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:08:02"
+                }
+            ]
+        },
+        {
+            "name": "time-tracker-beta - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:19:15",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 18:19:14"
+                }
+            ]
+        },
+        {
+            "name": "",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:19:40",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 18:19:39"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:48:35",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 18:48:34"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:49:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 23,
+                    "start_time": "2022-12-07 18:48:55"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:49:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 18:49:25"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:50:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 18:50:30"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:51:18",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 18:51:17"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:53:44",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 18:53:42"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:54:21",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 18:54:20"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:58:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 18:58:41"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:40:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 19:40:32"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:41:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 19:41:57"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:42:52",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 19:42:51"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:44:13",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 19:44:12"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:44:48",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 19:44:45"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:44:52",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 19:44:51"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:44:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 19:44:53"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:45:09",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 19:45:06"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:45:51",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 19:45:50"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:46:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 19:46:57"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:47:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 19:47:30"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:48:48",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 19:48:47"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:01:52",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:01:51"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:02:16",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:02:15"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:02:55",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:02:54"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:03:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:03:27"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:03:39",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:03:38"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:03:56",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:03:55"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:05:10",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:05:09"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:07:13",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:07:12"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:08:43",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:08:42"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:10:02",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:10:01"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:12:08",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:12:07"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:13:15",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:13:13"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:16:43",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:16:42"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:16:57",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:16:56"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:18:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:18:41"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:19:35",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:19:33"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:20:35",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:20:34"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:34:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:34:30"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:36:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 25,
+                    "start_time": "2022-12-07 20:36:02"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:36:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:36:32"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:36:43",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 20:36:40"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:37:35",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:37:34"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:38:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:38:27"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:38:44",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:38:42"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:38:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 20:38:51"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:41:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:41:09"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:42:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:42:09"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:45:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:45:40"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:46:05",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:46:04"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:47:05",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:47:04"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:47:24",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:47:23"
+                }
+            ]
+        },
+        {
+            "name": "Task Manager",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:20:04",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 23,
+                    "start_time": "2022-12-07 18:19:41"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:03:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 13,
+                    "start_time": "2022-12-07 20:03:40"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:36:45",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:36:44"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:37:21",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 27,
+                    "start_time": "2022-12-07 20:36:54"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:38:26",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 44,
+                    "start_time": "2022-12-07 20:37:42"
+                }
+            ]
+        },
+        {
+            "name": "App.tsx - time-tracker-beta - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:20:39",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 18:20:37"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:50:56",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2022-12-07 18:50:49"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:52:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 19:52:29"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:52:36",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 19:52:35"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:54:59",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 26,
+                    "start_time": "2022-12-07 19:54:33"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:17:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2022-12-07 20:17:47"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:34:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:34:40"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:34:59",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:34:58"
+                }
+            ]
+        },
+        {
+            "name": "Browse.tsx - time-tracker-beta - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:22:39",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 59,
+                    "start_time": "2022-12-07 18:20:39"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:27:55",
+                    "hours": 0,
+                    "minutes": 5,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 18:22:54"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:49:34",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2022-12-07 18:49:27"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:49:55",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 19,
+                    "start_time": "2022-12-07 18:49:36"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:50:06",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-12-07 18:50:01"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:50:10",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 18:50:07"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:50:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2022-12-07 18:50:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:50:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2022-12-07 18:50:21"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:50:35",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-12-07 18:50:31"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:50:49",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "start_time": "2022-12-07 18:50:38"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:51:17",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 14,
+                    "start_time": "2022-12-07 18:51:03"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:51:35",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 15,
+                    "start_time": "2022-12-07 18:51:20"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:52:17",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 31,
+                    "start_time": "2022-12-07 18:51:45"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:53:42",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 17,
+                    "start_time": "2022-12-07 18:52:24"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:54:16",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 32,
+                    "start_time": "2022-12-07 18:53:44"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:54:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 18:54:17"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:54:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 18:54:26"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:54:38",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2022-12-07 18:54:31"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:57:11",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 28,
+                    "start_time": "2022-12-07 18:54:42"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:57:14",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 18:57:12"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:57:23",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-12-07 18:57:19"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:57:37",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2022-12-07 18:57:27"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:58:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 48,
+                    "start_time": "2022-12-07 18:57:40"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:58:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2022-12-07 18:58:34"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:00:17",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 34,
+                    "start_time": "2022-12-07 18:58:42"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:40:32",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 19:40:31"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:41:57",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 10,
+                    "start_time": "2022-12-07 19:40:46"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:42:23",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 22,
+                    "start_time": "2022-12-07 19:42:01"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:42:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2022-12-07 19:42:31"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:43:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 34,
+                    "start_time": "2022-12-07 19:42:52"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:43:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 17,
+                    "start_time": "2022-12-07 19:43:37"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:44:32",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 19,
+                    "start_time": "2022-12-07 19:44:13"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:45:50",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 38,
+                    "start_time": "2022-12-07 19:45:12"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:46:57",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 5,
+                    "start_time": "2022-12-07 19:45:51"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:47:44",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 13,
+                    "start_time": "2022-12-07 19:47:31"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:48:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 33,
+                    "start_time": "2022-12-07 19:48:14"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:48:50",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 19:48:48"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:49:04",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 19:49:01"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:49:22",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "start_time": "2022-12-07 19:49:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:49:26",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 19:49:24"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:49:38",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2022-12-07 19:49:30"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:50:48",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 8,
+                    "start_time": "2022-12-07 19:49:39"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:51:37",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 34,
+                    "start_time": "2022-12-07 19:51:03"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:52:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 42,
+                    "start_time": "2022-12-07 19:51:47"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:53:13",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 37,
+                    "start_time": "2022-12-07 19:52:36"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:53:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 36,
+                    "start_time": "2022-12-07 19:53:18"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:54:30",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 19:54:27"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:55:59",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 19:55:58"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:56:30",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 30,
+                    "start_time": "2022-12-07 19:56:00"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:56:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2022-12-07 19:56:37"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:57:50",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 19:57:49"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:57:57",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-12-07 19:57:53"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:58:09",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2022-12-07 19:58:02"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:58:21",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-12-07 19:58:16"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:58:30",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 19:58:28"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:58:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 19:58:53"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:01:15",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-12-07 20:01:10"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:01:21",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:01:20"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:01:39",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 17,
+                    "start_time": "2022-12-07 20:01:22"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:01:51",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2022-12-07 20:01:45"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:02:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 37,
+                    "start_time": "2022-12-07 20:02:16"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:03:12",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 13,
+                    "start_time": "2022-12-07 20:02:59"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:03:24",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-12-07 20:03:20"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:05:09",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2022-12-07 20:04:59"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:05:34",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 13,
+                    "start_time": "2022-12-07 20:05:21"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:06:21",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 28,
+                    "start_time": "2022-12-07 20:05:53"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:06:24",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:06:23"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:06:30",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 20:06:27"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:06:56",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 22,
+                    "start_time": "2022-12-07 20:06:34"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:07:03",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:07:01"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:07:09",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:07:07"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:07:43",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-12-07 20:07:39"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:08:06",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 20:08:03"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:08:38",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 26,
+                    "start_time": "2022-12-07 20:08:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:08:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:08:40"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:08:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2022-12-07 20:08:43"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:08:56",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:08:55"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:09:06",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2022-12-07 20:09:00"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:09:24",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 16,
+                    "start_time": "2022-12-07 20:09:08"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:09:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:09:53"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:11:52",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 36,
+                    "start_time": "2022-12-07 20:11:16"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:12:07",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:12:06"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:12:26",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-12-07 20:12:22"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:12:34",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-12-07 20:12:30"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:12:43",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:12:41"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:12:56",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 20:12:53"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:13:10",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 12,
+                    "start_time": "2022-12-07 20:12:58"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:15:33",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 13,
+                    "start_time": "2022-12-07 20:13:20"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:16:07",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 21,
+                    "start_time": "2022-12-07 20:15:45"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:16:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 12,
+                    "start_time": "2022-12-07 20:16:19"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:16:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2022-12-07 20:16:32"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:16:56",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:16:54"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:17:02",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:17:01"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:17:25",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 17,
+                    "start_time": "2022-12-07 20:17:07"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:17:36",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2022-12-07 20:17:27"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:17:57",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 20:17:54"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:18:09",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 20:18:06"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:34:45",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-12-07 20:34:41"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:34:55",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2022-12-07 20:34:46"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:34:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:34:57"
+                }
+            ]
+        },
+        {
+            "name": "(2) get current file path nodejs - Search and 381 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:27:56",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 18:27:55"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:48:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 18:48:40"
+                }
+            ]
+        },
+        {
+            "name": "(22) OVERNIGHT CHALLENGE IN 6 MICRO FORTS! *Tiny Apartments* - YouTube and 381 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:28:04",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2022-12-07 18:27:56"
+                }
+            ]
+        },
+        {
+            "name": "(22) YouTube and 381 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:28:13",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2022-12-07 18:28:04"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:48:49",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 18:48:46"
+                }
+            ]
+        },
+        {
+            "name": "(22) A Youtuber sent MrBeast 100 Million Playbutton to Space - YouTube and 381 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:30:56",
+                    "hours": 0,
+                    "minutes": 2,
+                    "seconds": 42,
+                    "start_time": "2022-12-07 18:28:14"
+                }
+            ]
+        },
+        {
+            "name": "(22) $10,000 VS $100 Underground Coffins! - YouTube and 381 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:48:34",
+                    "hours": 0,
+                    "minutes": 17,
+                    "seconds": 37,
+                    "start_time": "2022-12-07 18:30:56"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:48:36",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 18:48:35"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:48:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-12-07 18:48:42"
+                }
+            ]
+        },
+        {
+            "name": "Task View",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:48:40",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-12-07 18:48:36"
+                }
+            ]
+        },
+        {
+            "name": "(22) New Windows 11 Build 22623.1028 \u2013 Gaming Performance Fixed, Taskbar Improvements and Fixes (Beta) - YouTube and 381 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:48:55",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2022-12-07 18:48:49"
+                }
+            ]
+        },
+        {
+            "name": "Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:49:36",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 18:49:34"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:50:38",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 18:50:35"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:16:32",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:16:31"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:17:07",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-12-07 20:17:02"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:39:26",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:39:24"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:39:49",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:39:48"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:40:08",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:40:07"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:41:06",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2022-12-07 20:40:57"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:46:56",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 20:46:53"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:47:00",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:46:58"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:47:09",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:47:08"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:47:16",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-12-07 20:47:12"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:47:39",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:47:38"
+                }
+            ]
+        },
+        {
+            "name": "main.js - time-tracker-react - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:49:57",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 18:49:55"
+                }
+            ]
+        },
+        {
+            "name": "renderer.js - time-tracker-react - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:50:01",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-12-07 18:49:57"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:50:07",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 18:50:06"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:50:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 18:50:10"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:51:45",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2022-12-07 18:51:39"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:52:24",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2022-12-07 18:52:17"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:54:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-12-07 18:54:38"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:47:17",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:47:16"
+                }
+            ]
+        },
+        {
+            "name": "Task Switching",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:50:21",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 18:50:19"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:50:30",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 18:50:29"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:54:17",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 18:54:16"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:49:01",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 19:49:00"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:05:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:05:41"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:07:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:07:45"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:07:48",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:07:47"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:12:57",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:12:56"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:34:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:34:45"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:34:57",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:34:56"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:35:26",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:35:25"
+                }
+            ]
+        },
+        {
+            "name": "index.tsx - time-tracker-beta - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:51:03",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2022-12-07 18:50:56"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:54:23",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 19:54:20"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:54:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 19:54:25"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:54:32",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 19:54:30"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:57:49",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 19:57:48"
+                }
+            ]
+        },
+        {
+            "name": "Error",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:51:20",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 18:51:18"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:57:12",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 18:57:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:57:40",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 18:57:37"
+                }
+            ]
+        },
+        {
+            "name": "(22) $1 VS $500 OVERNIGHT SURVIVAL CHALLENGE *GAS STATION ITEMS ONLY* - YouTube and 381 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:54:20",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 18:54:19"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:54:23",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 18:54:21"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:21:51",
+                    "hours": 0,
+                    "minutes": 21,
+                    "seconds": 30,
+                    "start_time": "2022-12-07 19:00:20"
+                }
+            ]
+        },
+        {
+            "name": "Picture in picture",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:54:26",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 18:54:23"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 18:54:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 18:54:29"
+                }
+            ]
+        },
+        {
+            "name": "(22) $20 VS $20,000 TANKS *Budget Challenge* - YouTube and 381 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:26:06",
+                    "hours": 0,
+                    "minutes": 4,
+                    "seconds": 15,
+                    "start_time": "2022-12-07 19:21:51"
+                }
+            ]
+        },
+        {
+            "name": "(23) $20 VS $20,000 TANKS *Budget Challenge* - YouTube and 381 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:40:31",
+                    "hours": 0,
+                    "minutes": 14,
+                    "seconds": 24,
+                    "start_time": "2022-12-07 19:26:06"
+                }
+            ]
+        },
+        {
+            "name": "copilot-proxy.githubusercontent.com and 382 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:42:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2022-12-07 19:42:24"
+                }
+            ]
+        },
+        {
+            "name": "Server Crashed",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:44:50",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 19:44:48"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:44:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 19:44:52"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:44:55",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 19:44:54"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:20:14",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 18,
+                    "start_time": "2022-12-07 20:19:55"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:20:26",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "start_time": "2022-12-07 20:20:15"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:20:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:20:27"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:20:32",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 20:20:29"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:34:25",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2022-12-07 20:34:18"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:34:30",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:34:28"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:34:32",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:34:31"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:36:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-12-07 20:36:27"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:36:40",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2022-12-07 20:36:33"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:36:44",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:36:43"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:36:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2022-12-07 20:36:45"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:37:34",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2022-12-07 20:37:28"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:37:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-12-07 20:37:36"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:43:19",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 20:43:15"
+                }
+            ]
+        },
+        {
+            "name": "Quick settings",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:49:39",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 19:49:38"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:51:03",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 15,
+                    "start_time": "2022-12-07 19:50:48"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:51:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2022-12-07 19:51:37"
+                }
+            ]
+        },
+        {
+            "name": "util.ts - time-tracker-beta - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:52:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 19:52:32"
+                }
+            ]
+        },
+        {
+            "name": "main.ts - time-tracker-beta - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:54:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 16,
+                    "start_time": "2022-12-07 19:53:54"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:54:18",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 19:54:17"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:18:37",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-12-07 20:18:33"
+                }
+            ]
+        },
+        {
+            "name": "index.ejs - time-tracker-beta - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:54:20",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 19:54:18"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:54:25",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 19:54:23"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:54:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 19:54:32"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:56:00",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 19:55:59"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:57:48",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 19:57:47"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:58:16",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 19:58:15"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:18:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "start_time": "2022-12-07 20:18:16"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:18:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:18:32"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:20:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 20:20:38"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:33:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2022-12-07 20:33:40"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:34:40",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-12-07 20:34:36"
+                }
+            ]
+        },
+        {
+            "name": "preload.d.ts - time-tracker-beta - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:57:47",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 0,
+                    "start_time": "2022-12-07 19:56:46"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:58:02",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-12-07 19:57:57"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:58:15",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2022-12-07 19:58:09"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:58:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2022-12-07 19:58:21"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:58:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 23,
+                    "start_time": "2022-12-07 19:58:30"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:59:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 33,
+                    "start_time": "2022-12-07 19:58:54"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 19:59:50",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 15,
+                    "start_time": "2022-12-07 19:59:35"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:01:10",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:01:08"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:18:06",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2022-12-07 20:17:57"
+                }
+            ]
+        },
+        {
+            "name": "https://copilot-proxy.githubusercontent.com and 382 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:01:59",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:01:57"
+                }
+            ]
+        },
+        {
+            "name": "Data Grid - Filtering - MUI X and 382 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:02:06",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2022-12-07 20:01:59"
+                }
+            ]
+        },
+        {
+            "name": "Data Grid - Row definition - MUI X and 382 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:02:15",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 9,
+                    "start_time": "2022-12-07 20:02:06"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:02:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:02:53"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:03:35",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:03:34"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:05:38",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:05:37"
+                }
+            ]
+        },
+        {
+            "name": "New notification",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:05:37",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:05:36"
+                }
+            ]
+        },
+        {
+            "name": "New tab and 383 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:05:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:05:39"
+                }
+            ]
+        },
+        {
+            "name": "Google and 383 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:07:15",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:07:13"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:07:18",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:07:17"
+                }
+            ]
+        },
+        {
+            "name": "New tab and 384 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:07:20",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:07:18"
+                }
+            ]
+        },
+        {
+            "name": "Google and 384 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:08:07",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:08:06"
+                }
+            ]
+        },
+        {
+            "name": "https://copilot-proxy.githubusercontent.com and 384 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:08:10",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 20:08:07"
+                }
+            ]
+        },
+        {
+            "name": "https://copilot-proxy.githubusercontent.com/v1/engines/copilot-codex and 384 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:08:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:08:10"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:09:59",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:09:58"
+                }
+            ]
+        },
+        {
+            "name": "New tab and 385 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:10:01",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:09:59"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:10:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:10:40"
+                }
+            ]
+        },
+        {
+            "name": "New tab and 386 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:12:09",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:12:08"
+                }
+            ]
+        },
+        {
+            "name": "New tab and 387 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:12:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:12:09"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:18:43",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:18:42"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:30:21",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:30:19"
+                }
+            ]
+        },
+        {
+            "name": "Hello Electron React!",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:17:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:17:25"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:18:32",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-12-07 20:18:27"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:41:09",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:41:07"
+                }
+            ]
+        },
+        {
+            "name": "App.css - time-tracker-beta - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:19:33",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 41,
+                    "start_time": "2022-12-07 20:18:52"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:20:38",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 20:20:35"
+                }
+            ]
+        },
+        {
+            "name": "time-tracker-beta",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:19:37",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:19:35"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:39:16",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 19,
+                    "start_time": "2022-12-07 20:38:57"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:44:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 30,
+                    "start_time": "2022-12-07 20:44:01"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:44:38",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2022-12-07 20:44:32"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:44:43",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:44:41"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:44:45",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:44:44"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:44:55",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 20:44:52"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:45:01",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-12-07 20:44:56"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:45:14",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2022-12-07 20:45:06"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:45:36",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 18,
+                    "start_time": "2022-12-07 20:45:17"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:45:40",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 20:45:37"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:46:04",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 17,
+                    "start_time": "2022-12-07 20:45:47"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:47:04",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-12-07 20:47:00"
+                }
+            ]
+        },
+        {
+            "name": "Electron",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:19:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2022-12-07 20:19:37"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:20:34",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:20:32"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:38:57",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 20:38:54"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:39:17",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:39:16"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:42:09",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 56,
+                    "start_time": "2022-12-07 20:41:12"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:44:01",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:43:59"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:45:43",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:45:41"
+                }
+            ]
+        },
+        {
+            "name": "Compressing...",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:19:55",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2022-12-07 20:19:47"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:30:19",
+                    "hours": 0,
+                    "minutes": 9,
+                    "seconds": 37,
+                    "start_time": "2022-12-07 20:20:41"
+                }
+            ]
+        },
+        {
+            "name": "https://replit.com/repls and 387 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:30:22",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:30:21"
+                }
+            ]
+        },
+        {
+            "name": "Repls - Replit and 387 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:30:30",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2022-12-07 20:30:22"
+                }
+            ]
+        },
+        {
+            "name": "Repls - Replit and 388 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:30:32",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:30:30"
+                }
+            ]
+        },
+        {
+            "name": "Repls - Replit and 389 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:30:35",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 20:30:32"
+                }
+            ]
+        },
+        {
+            "name": "Repls - Replit and 390 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:30:37",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:30:35"
+                }
+            ]
+        },
+        {
+            "name": "Repls - Replit and 391 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:30:40",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 20:30:37"
+                }
+            ]
+        },
+        {
+            "name": "Aakaansha27 - Replit and 392 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:30:44",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-12-07 20:30:40"
+                }
+            ]
+        },
+        {
+            "name": "nots3th (Seth Cythe) - Replit and 392 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:30:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:30:44"
+                }
+            ]
+        },
+        {
+            "name": "HenryLacey (Henry Lacey) - Replit and 392 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:30:49",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:30:47"
+                }
+            ]
+        },
+        {
+            "name": "LucasLloyd-Culh (Lucas Lloyd-Culham) - Replit and 392 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:30:50",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:30:49"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:31:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 20:31:28"
+                }
+            ]
+        },
+        {
+            "name": "NathanYoung15 (Nathan Young) - Replit and 392 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:30:51",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:30:50"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:30:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:30:52"
+                }
+            ]
+        },
+        {
+            "name": "aniblocks - Replit and 392 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:30:52",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:30:51"
+                }
+            ]
+        },
+        {
+            "name": "Replit and 392 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:30:55",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:30:54"
+                }
+            ]
+        },
+        {
+            "name": "techwithanirudh (Anirudh Sriram \u2815 ) - Replit and 392 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:31:14",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 19,
+                    "start_time": "2022-12-07 20:30:55"
+                }
+            ]
+        },
+        {
+            "name": "Home - Replit and 392 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:31:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 14,
+                    "start_time": "2022-12-07 20:31:14"
+                }
+            ]
+        },
+        {
+            "name": "YouTube and 392 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:31:35",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-12-07 20:31:31"
+                }
+            ]
+        },
+        {
+            "name": "(23) YouTube and 392 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:31:37",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:31:35"
+                }
+            ]
+        },
+        {
+            "name": "(23) YouTube and 393 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:32:09",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 31,
+                    "start_time": "2022-12-07 20:31:37"
+                }
+            ]
+        },
+        {
+            "name": "(23) Hackers Exploit TikTok Trend to Spread Malware - YouTube and 393 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:33:40",
+                    "hours": 0,
+                    "minutes": 1,
+                    "seconds": 30,
+                    "start_time": "2022-12-07 20:32:09"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:34:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 25,
+                    "start_time": "2022-12-07 20:33:46"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:34:17",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 20:34:14"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:34:36",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-12-07 20:34:32"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:34:56",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:34:55"
+                }
+            ]
+        },
+        {
+            "name": "Task Manager (Not Responding)",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:37:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2022-12-07 20:37:21"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:37:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:37:41"
+                }
+            ]
+        },
+        {
+            "name": "New tab - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:38:35",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2022-12-07 20:38:28"
+                }
+            ]
+        },
+        {
+            "name": "Restore pages",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:38:36",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:38:35"
+                }
+            ]
+        },
+        {
+            "name": "YouTube - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:38:38",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:38:36"
+                }
+            ]
+        },
+        {
+            "name": "New tab and 1 more page - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:38:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 20:38:39"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:43:59",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:43:57"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:45:37",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:45:36"
+                }
+            ]
+        },
+        {
+            "name": "time-tracker-react",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:39:22",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-12-07 20:39:17"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:39:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-12-07 20:39:42"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:41:12",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:41:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:45:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-12-07 20:45:43"
+                }
+            ]
+        },
+        {
+            "name": "preload.ts - Untitled (Workspace) - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:39:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 14,
+                    "start_time": "2022-12-07 20:39:27"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:39:48",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:39:46"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:40:07",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 18,
+                    "start_time": "2022-12-07 20:39:49"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:40:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 19,
+                    "start_time": "2022-12-07 20:40:08"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:40:57",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:40:56"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:41:07",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:41:06"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:42:49",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 38,
+                    "start_time": "2022-12-07 20:42:11"
+                }
+            ]
+        },
+        {
+            "name": "App.css - Untitled (Workspace) - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:42:51",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:42:49"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:42:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:42:52"
+                }
+            ]
+        },
+        {
+            "name": "index.ejs - Untitled (Workspace) - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:42:52",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:42:51"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:42:54",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:42:53"
+                }
+            ]
+        },
+        {
+            "name": "Browse.tsx - Untitled (Workspace) - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:43:00",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2022-12-07 20:42:54"
+                }
+            ]
+        },
+        {
+            "name": "preload.d.ts - Untitled (Workspace) - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:43:07",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2022-12-07 20:43:00"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:46:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 12,
+                    "start_time": "2022-12-07 20:46:41"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:46:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:46:56"
+                }
+            ]
+        },
+        {
+            "name": "main.ts - Untitled (Workspace) - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:43:09",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:43:07"
+                }
+            ]
+        },
+        {
+            "name": "App.tsx - Untitled (Workspace) - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:43:11",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:43:09"
+                }
+            ]
+        },
+        {
+            "name": "index.tsx - Untitled (Workspace) - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:43:15",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 4,
+                    "start_time": "2022-12-07 20:43:11"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:43:57",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 38,
+                    "start_time": "2022-12-07 20:43:19"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:46:17",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 12,
+                    "start_time": "2022-12-07 20:46:05"
+                }
+            ]
+        },
+        {
+            "name": ".husky",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:44:32",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:44:31"
+                }
+            ]
+        },
+        {
+            "name": "data",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:44:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:44:39"
+                }
+            ]
+        },
+        {
+            "name": ".erb",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:44:44",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:44:43"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:44:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:44:45"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:44:51",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:44:49"
+                }
+            ]
+        },
+        {
+            "name": "img",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:44:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:44:46"
+                }
+            ]
+        },
+        {
+            "name": "dll",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:44:49",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:44:47"
+                }
+            ]
+        },
+        {
+            "name": "mocks",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:44:52",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:44:51"
+                }
+            ]
+        },
+        {
+            "name": ".vscode",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:44:56",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:44:55"
+                }
+            ]
+        },
+        {
+            "name": "Confirm Folder Replace",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:45:06",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-12-07 20:45:01"
+                }
+            ]
+        },
+        {
+            "name": ".git",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:45:17",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 20:45:14"
+                }
+            ]
+        },
+        {
+            "name": "activities.json - Untitled (Workspace) - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:46:41",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 23,
+                    "start_time": "2022-12-07 20:46:17"
+                }
+            ]
+        },
+        {
+            "name": "Jump List for Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:47:08",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 20:47:05"
+                }
+            ]
+        },
+        {
+            "name": "Get Started - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:47:12",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 20:47:09"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:47:23",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2022-12-07 20:47:17"
+                }
+            ]
+        }
+    ]
+}
