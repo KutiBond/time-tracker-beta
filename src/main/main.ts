@@ -99,11 +99,11 @@ const createWindow = async () => {
   // When you recive a message saying the server crashed
   ipcMain.on('server-crashed', (event, arg) => {
     // Alert the user to install python
-    dialog.showMessageBox({
-      type: 'error',
-      title: 'Server Crashed',
-      message: 'The server has crashed. The server will autorestart.',
-    });
+    // dialog.showMessageBox({
+    //   type: 'error',
+    //   title: 'Server Crashed',
+    //   message: 'The server has crashed. The server will autorestart.',
+    // });
   });
 
   mainWindow.on('ready-to-show', () => {

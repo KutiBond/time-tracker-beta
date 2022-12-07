@@ -1,12 +1,11 @@
 {
-  "name": "electron-react-boilerplate",
+  "name": "time-tracker",
   "version": "4.6.0",
-  "description": "A foundation for scalable desktop apps",
-  "license": "MIT",
+  "description": "A simple time tracker to keep track of your time",
+  "license": "GPL-3.0",
   "author": {
-    "name": "Electron React Boilerplate Maintainers",
-    "email": "electronreactboilerplate@gmail.com",
-    "url": "https://github.com/electron-react-boilerplate"
+    "name": "Anirudh Sriram",
+    "email": "hello@techwithanirudh.com"
   },
   "main": "./dist/main/main.js",
   "scripts": {

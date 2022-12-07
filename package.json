@@ -19,11 +19,10 @@
     "type": "git",
     "url": "git+https://github.com/electron-react-boilerplate/electron-react-boilerplate.git"
   },
-  "license": "MIT",
+  "license": "GPL-3.0",
   "author": {
-    "name": "Electron React Boilerplate Maintainers",
-    "email": "electronreactboilerplate@gmail.com",
-    "url": "https://electron-react-boilerplate.js.org"
+    "name": "Anirudh Sriram",
+    "email": "hello@techwithanirudh.com"
   },
   "contributors": [
     {
@@ -185,14 +184,17 @@
     "webpack-merge": "^5.8.0"
   },
   "build": {
-    "productName": "ElectronReact",
-    "appId": "org.erb.ElectronReact",
+    "productName": "Time Tracker",
+    "appId": "org.techwithanirudh.Time Tracker",
     "asar": true,
     "asarUnpack": "**\\*.{node,dll}",
     "files": [
       "dist",
       "node_modules",
       "package.json"
+    ],
+    "extraFiles": [
+      "python"
     ],
     "afterSign": ".erb/scripts/notarize.js",
     "mac": {
