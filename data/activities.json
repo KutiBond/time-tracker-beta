@@ -226,8 +226,15 @@
                     "minutes": 0,
                     "seconds": 4,
                     "start_time": "2022-12-07 20:47:40"
-           ,
-   
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:47:50",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:47:48"
+                }
             ]
         },
         {
@@ -458,7 +465,7 @@
                     "start_time": "2022-12-07 20:01:15"
                 },
                 {
-                   "days": 0,
+                    "days": 0,
                     "end_time": "2022-12-07 20:01:22",
                     "hours": 0,
                     "minutes": 0,
@@ -685,7 +692,7 @@
                     "days": 0,
                     "end_time": "2022-12-07 20:12:06",
                     "hours": 0,
-                    "m"minutes":,
+                    "minutes": 0,
                     "seconds": 13,
                     "start_time": "2022-12-07 20:11:53"
                 },
@@ -913,8 +920,8 @@
                 {
                     "days": 0,
                     "end_time": "2022-12-07 20:03:55",
-                    "hours": 0,,
-                    "minutes"0,
+                    "hours": 0,
+                    "minutes": 0,
                     "seconds": 2,
                     "start_time": "2022-12-07 20:03:53"
                 },
@@ -1145,8 +1152,8 @@
                     "start_time": "2022-12-07 19:47:30"
                 },
                 {
-                    "days": 0,,
-                    "end_time""2022-12-07 19:48:48",
+                    "days": 0,
+                    "end_time": "2022-12-07 19:48:48",
                     "hours": 0,
                     "minutes": 0,
                     "seconds": 1,
@@ -1373,8 +1380,8 @@
                     "end_time": "2022-12-07 20:46:06",
                     "hours": 0,
                     "minutes": 0,
-                    "s"seconds": 2,
-                  "start_time": "2022-12-07 20:46:04"
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:46:04"
                 },
                 {
                     "days": 0,
@@ -1605,7 +1612,7 @@
                     "hours": 0,
                     "minutes": 0,
                     "seconds": 31,
-                    ""start_time": "2022-12-07 18:51:20
+                    "start_time": "2022-12-07 18:51:45"
                 },
                 {
                     "days": 0,
@@ -1833,7 +1840,7 @@
                 },
                 {
                     "days": 0,
-                    "end_time": : "2022-12-07 19:49:3,
+                    "end_time": "2022-12-07 19:50:48",
                     "hours": 0,
                     "minutes": 1,
                     "seconds": 8,
@@ -2751,8 +2758,7 @@
                     "minutes": 0,
                     "seconds": 2,
                     "start_time": "2022-12-07 18:51:18"
- 
-              ,
+                },
                 {
                     "days": 0,
                     "end_time": "2022-12-07 18:57:12",
@@ -2981,7 +2987,7 @@
                     "hours": 0,
                     "minutes": 0,
                     "seconds": 7,
-                    "start_time": "202"2022-12-07 20:37
+                    "start_time": "2022-12-07 20:37:28"
                 },
                 {
                     "days": 0,
@@ -3216,8 +3222,7 @@
                     "seconds": 33,
                     "start_time": "2022-12-07 19:58:54"
                 },
-  ,
-            
+                {
                     "days": 0,
                     "end_time": "2022-12-07 19:59:50",
                     "hours": 0,
@@ -3451,21 +3456,28 @@
             "name": "New tab and 387 more pages - Personal - Microsoft\u200b Edge",
             "time_entries": [
                 {
-  
                     "days": 0,
-                    "end_time": "2022-12-07 20:30:20",
+                    "end_time": "2022-12-07 20:12:11",
                     "hours": 0,
                     "minutes": 0,
                     "seconds": 2,
-                    "start_time": "2022-12-07 20:30:18"
+                    "start_time": "2022-12-07 20:12:09"
                 },
                 {
                     "days": 0,
-                    "end_time": "2022-12-07 20:30:22",
+                    "end_time": "2022-12-07 20:18:42",
                     "hours": 0,
                     "minutes": 0,
                     "seconds": 1,
-                    "start_time": "2022-12-07 20:30:21"
+                    "start_time": "2022-12-07 20:18:41"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:30:21",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 20:30:18"
                 }
             ]
         },
@@ -3477,8 +3489,8 @@
                     "end_time": "2022-12-07 20:17:27",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 3,
-                    "start_time": "2022-12-07 20:17:24"
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:17:25"
                 },
                 {
                     "days": 0,
@@ -3486,7 +3498,7 @@
                     "hours": 0,
                     "minutes": 0,
                     "seconds": 5,
-                    "start_time": "2022-12-07 20:18:28"
+                    "start_time": "2022-12-07 20:18:27"
                 },
                 {
                     "days": 0,
@@ -3511,11 +3523,11 @@
                 },
                 {
                     "days": 0,
-                    "end_time": "2022-12-07 20:20:39",
+                    "end_time": "2022-12-07 20:20:38",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 4,
-                    "start_time": "2022-12-07 20:20:34"
+                    "seconds": 3,
+                    "start_time": "2022-12-07 20:20:35"
                 }
             ]
         },
@@ -3524,10 +3536,10 @@
             "time_entries": [
                 {
                     "days": 0,
-                    "end_time": "2022-12-07 20:19:38",
+                    "end_time": "2022-12-07 20:19:37",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 3,
+                    "seconds": 2,
                     "start_time": "2022-12-07 20:19:35"
                 },
                 {
@@ -3540,11 +3552,19 @@
                 },
                 {
                     "days": 0,
+                    "end_time": "2022-12-07 20:44:03",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:44:01"
+                },
+                {
+                    "days": 0,
                     "end_time": "2022-12-07 20:44:31",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 30,
-                    "start_time": "2022-12-07 20:44:01"
+                    "seconds": 26,
+                    "start_time": "2022-12-07 20:44:04"
                 },
                 {
                     "days": 0,
@@ -3556,10 +3576,10 @@
                 },
                 {
                     "days": 0,
-                    "end_time": "2022-12-07 20:44:44",
+                    "end_time": "2022-12-07 20:44:43",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 4,
+                    "seconds": 3,
                     "start_time": "2022-12-07 20:44:40"
                 },
                 {
@@ -3567,8 +3587,8 @@
                     "end_time": "2022-12-07 20:44:53",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 2,
-                    "start_time": "2022-12-07 20:44:51"
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:44:52"
                 },
                 {
                     "days": 0,
@@ -3633,27 +3653,27 @@
             "time_entries": [
                 {
                     "days": 0,
-                    "end_time": "2022-12-07 20:19:48",
+                    "end_time": "2022-12-07 20:19:47",
                     "hours": 0,
                     "minutes": 0,
                     "seconds": 10,
-                    "start_time": "2022-12-07 20:19:38"
+                    "start_time": "2022-12-07 20:19:37"
                 },
                 {
                     "days": 0,
-                    "end_time": "2022-12-07 20:20:33",
+                    "end_time": "2022-12-07 20:20:34",
                     "hours": 0,
                     "minutes": 0,
                     "seconds": 2,
-                    "start_time": "2022-12-07 20:20:31"
+                    "start_time": "2022-12-07 20:20:32"
                 },
                 {
                     "days": 0,
                     "end_time": "2022-12-07 20:38:57",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 4,
-                    "start_time": "2022-12-07 20:38:53"
+                    "seconds": 3,
+                    "start_time": "2022-12-07 20:38:54"
                 },
                 {
                     "days": 0,
@@ -3669,15 +3689,15 @@
                     "hours": 0,
                     "minutes": 0,
                     "seconds": 56,
-                    "start_time": "2022-12-07 20:41:13"
+                    "start_time": "2022-12-07 20:41:12"
                 },
                 {
                     "days": 0,
                     "end_time": "2022-12-07 20:44:01",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 1,
-                    "start_time": "2022-12-07 20:44:00"
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:43:59"
                 },
                 {
                     "days": 0,
@@ -3697,8 +3717,8 @@
                     "end_time": "2022-12-07 20:19:55",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 7,
-                    "start_time": "2022-12-07 20:19:48"
+                    "seconds": 8,
+                    "start_time": "2022-12-07 20:19:47"
                 },
                 {
                     "days": 0,
@@ -3706,20 +3726,7 @@
                     "hours": 0,
                     "minutes": 9,
                     "seconds": 36,
-                    "start_time": "2022-12-07 20:20:42"
-                }
-            ]
-        },
-        {
-            "name": "https://replit.com/repls and 387 more pages - Personal - Microsoft\u200b Edge",
-            "time_entries": [
-                {
-                    "days": 0,
-                    "end_time": "2022-12-07 20:30:21",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 1,
-                    "start_time": "2022-12-07 20:30:20"
+                    "start_time": "2022-12-07 20:20:41"
                 }
             ]
         },
@@ -3731,8 +3738,8 @@
                     "end_time": "2022-12-07 20:30:30",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 7,
-                    "start_time": "2022-12-07 20:30:22"
+                    "seconds": 9,
+                    "start_time": "2022-12-07 20:30:21"
                 }
             ]
         },
@@ -3754,10 +3761,10 @@
             "time_entries": [
                 {
                     "days": 0,
-                    "end_time": "2022-12-07 20:30:35",
+                    "end_time": "2022-12-07 20:30:34",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 3,
+                    "seconds": 2,
                     "start_time": "2022-12-07 20:30:32"
                 }
             ]
@@ -3767,11 +3774,11 @@
             "time_entries": [
                 {
                     "days": 0,
-                    "end_time": "2022-12-07 20:30:37",
+                    "end_time": "2022-12-07 20:30:36",
                     "hours": 0,
                     "minutes": 0,
                     "seconds": 2,
-                    "start_time": "2022-12-07 20:30:35"
+                    "start_time": "2022-12-07 20:30:34"
                 }
             ]
         },
@@ -3783,8 +3790,8 @@
                     "end_time": "2022-12-07 20:30:40",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 3,
-                    "start_time": "2022-12-07 20:30:37"
+                    "seconds": 4,
+                    "start_time": "2022-12-07 20:30:36"
                 }
             ]
         },
@@ -3793,11 +3800,11 @@
             "time_entries": [
                 {
                     "days": 0,
-                    "end_time": "2022-12-07 20:30:44",
+                    "end_time": "2022-12-07 20:30:45",
                     "hours": 0,
                     "minutes": 0,
                     "seconds": 4,
-                    "start_time": "2022-12-07 20:30:40"
+                    "start_time": "2022-12-07 20:30:41"
                 }
             ]
         },
@@ -3809,8 +3816,8 @@
                     "end_time": "2022-12-07 20:30:46",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 2,
-                    "start_time": "2022-12-07 20:30:44"
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:30:45"
                 }
             ]
         },
@@ -3819,10 +3826,10 @@
             "time_entries": [
                 {
                     "days": 0,
-                    "end_time": "2022-12-07 20:30:48",
+                    "end_time": "2022-12-07 20:30:49",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 2,
+                    "seconds": 3,
                     "start_time": "2022-12-07 20:30:46"
                 }
             ]
@@ -3835,8 +3842,8 @@
                     "end_time": "2022-12-07 20:30:50",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 2,
-                    "start_time": "2022-12-07 20:30:48"
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:30:49"
                 },
                 {
                     "days": 0,
@@ -3853,10 +3860,10 @@
             "time_entries": [
                 {
                     "days": 0,
-                    "end_time": "2022-12-07 20:30:53",
+                    "end_time": "2022-12-07 20:30:54",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 3,
+                    "seconds": 4,
                     "start_time": "2022-12-07 20:30:50"
                 }
             ]
@@ -3869,8 +3876,8 @@
                     "end_time": "2022-12-07 20:30:55",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 2,
-                    "start_time": "2022-12-07 20:30:53"
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:30:54"
                 }
             ]
         },
@@ -3879,7 +3886,7 @@
             "time_entries": [
                 {
                     "days": 0,
-                    "end_time": "2022-12-07 20:31:15",
+                    "end_time": "2022-12-07 20:31:14",
                     "hours": 0,
                     "minutes": 0,
                     "seconds": 19,
@@ -3895,21 +3902,8 @@
                     "end_time": "2022-12-07 20:31:28",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 13,
-                    "start_time": "2022-12-07 20:31:15"
-                }
-            ]
-        },
-        {
-            "name": "https://www.youtube.com and 392 more pages - Personal - Microsoft\u200b Edge",
-            "time_entries": [
-                {
-                    "days": 0,
-                    "end_time": "2022-12-07 20:31:32",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 1,
-                    "start_time": "2022-12-07 20:31:31"
+                    "seconds": 14,
+                    "start_time": "2022-12-07 20:31:14"
                 }
             ]
         },
@@ -3918,11 +3912,11 @@
             "time_entries": [
                 {
                     "days": 0,
-                    "end_time": "2022-12-07 20:31:35",
+                    "end_time": "2022-12-07 20:31:34",
                     "hours": 0,
                     "minutes": 0,
                     "seconds": 3,
-                    "start_time": "2022-12-07 20:31:32"
+                    "start_time": "2022-12-07 20:31:31"
                 }
             ]
         },
@@ -3931,11 +3925,11 @@
             "time_entries": [
                 {
                     "days": 0,
-                    "end_time": "2022-12-07 20:31:37",
+                    "end_time": "2022-12-07 20:31:38",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 2,
-                    "start_time": "2022-12-07 20:31:35"
+                    "seconds": 3,
+                    "start_time": "2022-12-07 20:31:34"
                 }
             ]
         },
@@ -3947,8 +3941,8 @@
                     "end_time": "2022-12-07 20:32:08",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 31,
-                    "start_time": "2022-12-07 20:31:37"
+                    "seconds": 30,
+                    "start_time": "2022-12-07 20:31:38"
                 }
             ]
         },
@@ -3957,18 +3951,18 @@
             "time_entries": [
                 {
                     "days": 0,
-                    "end_time": "2022-12-07 20:33:39",
+                    "end_time": "2022-12-07 20:33:40",
                     "hours": 0,
                     "minutes": 1,
-                    "seconds": 30,
+                    "seconds": 31,
                     "start_time": "2022-12-07 20:32:08"
                 },
                 {
                     "days": 0,
-                    "end_time": "2022-12-07 20:34:12",
+                    "end_time": "2022-12-07 20:34:11",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 26,
+                    "seconds": 25,
                     "start_time": "2022-12-07 20:33:46"
                 },
                 {
@@ -3976,16 +3970,16 @@
                     "end_time": "2022-12-07 20:34:17",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 2,
-                    "start_time": "2022-12-07 20:34:15"
+                    "seconds": 3,
+                    "start_time": "2022-12-07 20:34:14"
                 },
                 {
                     "days": 0,
-                    "end_time": "2022-12-07 20:34:37",
+                    "end_time": "2022-12-07 20:34:36",
                     "hours": 0,
                     "minutes": 0,
                     "seconds": 4,
-                    "start_time": "2022-12-07 20:34:33"
+                    "start_time": "2022-12-07 20:34:32"
                 },
                 {
                     "days": 0,
@@ -3994,14 +3988,6 @@
                     "minutes": 0,
                     "seconds": 1,
                     "start_time": "2022-12-07 20:34:45"
-                },
-                {
-                    "days": 0,
-                    "end_time": "2022-12-07 20:34:57",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 1,
-                    "start_time": "2022-12-07 20:34:56"
                 }
             ]
         },
@@ -4015,6 +4001,14 @@
                     "minutes": 0,
                     "seconds": 7,
                     "start_time": "2022-12-07 20:37:21"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:37:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:37:41"
                 }
             ]
         },
@@ -4023,11 +4017,11 @@
             "time_entries": [
                 {
                     "days": 0,
-                    "end_time": "2022-12-07 20:38:36",
+                    "end_time": "2022-12-07 20:38:35",
                     "hours": 0,
                     "minutes": 0,
                     "seconds": 7,
-                    "start_time": "2022-12-07 20:38:29"
+                    "start_time": "2022-12-07 20:38:28"
                 }
             ]
         },
@@ -4036,11 +4030,11 @@
             "time_entries": [
                 {
                     "days": 0,
-                    "end_time": "2022-12-07 20:38:37",
+                    "end_time": "2022-12-07 20:38:36",
                     "hours": 0,
                     "minutes": 0,
                     "seconds": 1,
-                    "start_time": "2022-12-07 20:38:36"
+                    "start_time": "2022-12-07 20:38:35"
                 }
             ]
         },
@@ -4081,8 +4075,8 @@
                     "end_time": "2022-12-07 20:43:59",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 2,
-                    "start_time": "2022-12-07 20:43:57"
+                    "seconds": 3,
+                    "start_time": "2022-12-07 20:43:56"
                 },
                 {
                     "days": 0,
@@ -4099,7 +4093,7 @@
             "time_entries": [
                 {
                     "days": 0,
-                    "end_time": "2022-12-07 20:39:23",
+                    "end_time": "2022-12-07 20:39:22",
                     "hours": 0,
                     "minutes": 0,
                     "seconds": 5,
@@ -4107,19 +4101,19 @@
                 },
                 {
                     "days": 0,
-                    "end_time": "2022-12-07 20:39:45",
+                    "end_time": "2022-12-07 20:39:46",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 3,
+                    "seconds": 4,
                     "start_time": "2022-12-07 20:39:42"
                 },
                 {
                     "days": 0,
-                    "end_time": "2022-12-07 20:41:13",
+                    "end_time": "2022-12-07 20:41:12",
                     "hours": 0,
                     "minutes": 0,
                     "seconds": 1,
-                    "start_time": "2022-12-07 20:41:12"
+                    "start_time": "2022-12-07 20:41:11"
                 },
                 {
                     "days": 0,
@@ -4136,7 +4130,7 @@
             "time_entries": [
                 {
                     "days": 0,
-                    "end_time": "2022-12-07 20:39:41",
+                    "end_time": "2022-12-07 20:39:42",
                     "hours": 0,
                     "minutes": 0,
                     "seconds": 14,
@@ -4144,19 +4138,27 @@
                 },
                 {
                     "days": 0,
-                    "end_time": "2022-12-07 20:39:47",
+                    "end_time": "2022-12-07 20:39:48",
                     "hours": 0,
                     "minutes": 0,
                     "seconds": 2,
-                    "start_time": "2022-12-07 20:39:45"
+                    "start_time": "2022-12-07 20:39:46"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:40:07",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 18,
+                    "start_time": "2022-12-07 20:39:49"
                 },
                 {
                     "days": 0,
                     "end_time": "2022-12-07 20:40:27",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 37,
-                    "start_time": "2022-12-07 20:39:49"
+                    "seconds": 19,
+                    "start_time": "2022-12-07 20:40:08"
                 },
                 {
                     "days": 0,
@@ -4168,19 +4170,19 @@
                 },
                 {
                     "days": 0,
-                    "end_time": "2022-12-07 20:41:06",
+                    "end_time": "2022-12-07 20:41:07",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 1,
+                    "seconds": 2,
                     "start_time": "2022-12-07 20:41:05"
                 },
                 {
                     "days": 0,
-                    "end_time": "2022-12-07 20:42:50",
+                    "end_time": "2022-12-07 20:42:49",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 39,
-                    "start_time": "2022-12-07 20:42:10"
+                    "seconds": 38,
+                    "start_time": "2022-12-07 20:42:11"
                 }
             ]
         },
@@ -4192,8 +4194,8 @@
                     "end_time": "2022-12-07 20:42:51",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 1,
-                    "start_time": "2022-12-07 20:42:50"
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:42:49"
                 },
                 {
                     "days": 0,
@@ -4218,10 +4220,10 @@
                 },
                 {
                     "days": 0,
-                    "end_time": "2022-12-07 20:42:55",
+                    "end_time": "2022-12-07 20:42:54",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 2,
+                    "seconds": 1,
                     "start_time": "2022-12-07 20:42:53"
                 }
             ]
@@ -4234,8 +4236,8 @@
                     "end_time": "2022-12-07 20:43:00",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 5,
-                    "start_time": "2022-12-07 20:42:55"
+                    "seconds": 6,
+                    "start_time": "2022-12-07 20:42:54"
                 }
             ]
         },
@@ -4244,10 +4246,10 @@
             "time_entries": [
                 {
                     "days": 0,
-                    "end_time": "2022-12-07 20:43:07",
+                    "end_time": "2022-12-07 20:43:06",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 7,
+                    "seconds": 6,
                     "start_time": "2022-12-07 20:43:00"
                 },
                 {
@@ -4276,8 +4278,8 @@
                     "end_time": "2022-12-07 20:43:09",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 2,
-                    "start_time": "2022-12-07 20:43:07"
+                    "seconds": 3,
+                    "start_time": "2022-12-07 20:43:06"
                 }
             ]
         },
@@ -4286,10 +4288,10 @@
             "time_entries": [
                 {
                     "days": 0,
-                    "end_time": "2022-12-07 20:43:12",
+                    "end_time": "2022-12-07 20:43:11",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 3,
+                    "seconds": 2,
                     "start_time": "2022-12-07 20:43:09"
                 }
             ]
@@ -4299,15 +4301,15 @@
             "time_entries": [
                 {
                     "days": 0,
-                    "end_time": "2022-12-07 20:43:16",
+                    "end_time": "2022-12-07 20:43:15",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 4,
+                    "seconds": 3,
                     "start_time": "2022-12-07 20:43:12"
                 },
                 {
                     "days": 0,
-                    "end_time": "2022-12-07 20:43:57",
+                    "end_time": "2022-12-07 20:43:56",
                     "hours": 0,
                     "minutes": 0,
                     "seconds": 37,
@@ -4324,15 +4326,31 @@
             ]
         },
         {
-            "name": "time-tracker-beta.zip",
+            "name": "Delete Folder",
             "time_entries": [
                 {
                     "days": 0,
-                    "end_time": "2022-12-07 20:44:00",
+                    "end_time": "2022-12-07 20:44:04",
                     "hours": 0,
                     "minutes": 0,
                     "seconds": 1,
-                    "start_time": "2022-12-07 20:43:59"
+                    "start_time": "2022-12-07 20:44:03"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:45:17",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:45:16"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:45:34",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:45:33"
                 }
             ]
         },
@@ -4378,8 +4396,8 @@
                     "end_time": "2022-12-07 20:44:45",
                     "hours": 0,
                     "minutes": 0,
-                    "seconds": 1,
-                    "start_time": "2022-12-07 20:44:44"
+                    "seconds": 2,
+                    "start_time": "2022-12-07 20:44:43"
                 },
                 {
                     "days": 0,
@@ -4396,6 +4414,14 @@
                     "minutes": 0,
                     "seconds": 1,
                     "start_time": "2022-12-07 20:44:49"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:44:52",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-07 20:44:51"
                 }
             ]
         },
@@ -4447,7 +4473,7 @@
                     "hours": 0,
                     "minutes": 0,
                     "seconds": 6,
-                    "start_time": "2022-12-07 20:45:01"
+                    "start_time": "2022-12-07 20:45:00"
                 }
             ]
         },
@@ -4469,27 +4495,6 @@
                     "minutes": 0,
                     "seconds": 1,
                     "start_time": "2022-12-07 20:45:17"
-                }
-            ]
-        },
-        {
-            "name": "Delete Folder",
-            "time_entries": [
-                {
-                    "days": 0,
-                    "end_time": "2022-12-07 20:45:17",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 1,
-                    "start_time": "2022-12-07 20:45:16"
-                },
-                {
-                    "days": 0,
-                    "end_time": "2022-12-07 20:45:34",
-                    "hours": 0,
-                    "minutes": 0,
-                    "seconds": 1,
-                    "start_time": "2022-12-07 20:45:33"
                 }
             ]
         },
@@ -4550,12 +4555,14 @@
                     "minutes": 0,
                     "seconds": 4,
                     "start_time": "2022-12-07 20:47:44"
-                }
-            ]
-        }
-    ]
-}s": 4,
-                    "start_time": "2022-12-07 20:47:44"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-07 20:47:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-07 20:47:50"
                 }
             ]
         }
