@@ -2,6 +2,8 @@ import * as React from 'react';
 import { DataGrid, GridToolbar } from '@mui/x-data-grid';
 import { useDemoData } from '@mui/x-data-grid-generator';
 
+import { Typography, Box } from '@mui/material';
+
 import { ipcRenderer } from 'electron';
 
 function watchFile(activities: any) {
@@ -41,17 +43,17 @@ export default function BasicExampleDataGrid() {
     {
       field: 'name',
       headerName: 'Name',
-      width: 130,
+      width: 430,
     },
     {
       field: 'startDate',
       headerName: 'Start Date',
-      width: 130,
+      width: 230,
     },
     {
       field: 'endDate',
       headerName: 'End Date',
-      width: 130,
+      width: 230,
     },
   ];
 
@@ -63,22 +65,41 @@ export default function BasicExampleDataGrid() {
     // Listen for the response from the main process
     var parsedActivities: any = [];
     console.log(activities);
-    activities.forEach((activity: any, index: number) => {
-      parsedActivities.push({
-        id: index,
-        name: activity.name,
+    activities.forEach((activity: any) => {
+      activity.time_entries.forEach((time_entry: any, i2: any) => {
+        parsedActivities.push({
+          name: activity.name,
+          startDate: time_entry.start_time,
+          endDate: time_entry.end_time,
+        });
       });
     });
+
+    // Add an ID to each activity
+    parsedActivities.forEach((activity: any, i: any) => {
+      activity.id = i;
+    });
+
+    // Sort by descending order
+    parsedActivities.sort((a: any, b: any) => {
+      return b.id - a.id;
+    });
+
     setRows(parsedActivities);
   }, [activities]);
 
   return (
-    <div style={{ height: 400, width: '100%' }}>
-      <DataGrid
-        columns={columns}
-        rows={rows}
-        components={{ Toolbar: GridToolbar }}
-      />
-    </div>
+    <Box sx={{ p: 2 }}>
+      <Typography variant="h4" component="h1" gutterBottom>
+        Time Tracker
+      </Typography>
+      <div style={{ height: '85vh', width: '100%' }}>
+        <DataGrid
+          columns={columns}
+          rows={rows}
+          components={{ Toolbar: GridToolbar }}
+        />
+      </div>
+    </Box>
   );
 }
