@@ -47,7 +47,7 @@ export default function BasicExampleDataGrid() {
     {
       field: 'name',
       headerName: 'Name',
-      width: 430,
+      width: 480,
     },
     {
       field: 'startDate',
