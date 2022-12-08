@@ -146,9 +146,15 @@ const createWindow = async () => {
 };
 
 app.whenReady().then(() => {
-  const icon = nativeImage.createFromPath(
-    path.join(process.cwd(), 'assets', 'icon.png')
-  );
+  const RESOURCES_PATH = app.isPackaged
+    ? path.join(process.resourcesPath, 'assets')
+    : path.join(__dirname, '../../assets');
+
+  const getAssetPath = (...paths: string[]): string => {
+    return path.join(RESOURCES_PATH, ...paths);
+  };
+
+  const icon = nativeImage.createFromPath(getAssetPath('icon.png'));
 
   tray = new Tray(icon);
 
