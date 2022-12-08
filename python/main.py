@@ -48,7 +48,10 @@ if os.path.exists(".pid"):
             subprocess.call("taskkill /F /PID " + line, startupinfo=si)
 
     # Delete the .pid file
-    os.remove(".pid")
+    try:
+        os.remove(".pid")
+    except Exception as e:
+        print(e)
 
 # Create a new .pid file
 with open(".pid", "w") as pid_file:
