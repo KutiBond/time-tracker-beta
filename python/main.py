@@ -10,7 +10,6 @@ import os
 if sys.platform in ["Windows", "win32", "cygwin"]:
     import win32gui
     import uiautomation as auto
-    import subprocess
 elif sys.platform in ["Mac", "darwin", "os2", "os2emx"]:
     from AppKit import NSWorkspace
     from Foundation import *
@@ -43,51 +42,25 @@ elif sys.platform in ["linux", "linux2"]:
 if os.path.exists(".pid"):
     with open(".pid", "r") as pid_file:
         for line in pid_file:
-            si = subprocess.STARTUPINFO()
-            si.dwFlags |= subprocess.STARTF_USESHOWWINDOW
-            subprocess.call("taskkill /F /PID " + line, startupinfo=si)
+            system("taskkill /F /PID " + line)
 
     # Delete the .pid file
     try:
         os.remove(".pid")
-    except Exception as e:
-        print(e)
+    except:
+        pass
 
 # Create a new .pid file
 with open(".pid", "w") as pid_file:
     # Write the current process ID to the .pid file
     pid_file.write(str(os.getpid()))
 
+#
+
 
 def url_to_name(url):
     string_list = url.split("/")
-    # If using Google, Yahoo or Bing, Get the search query instead
-    if "google" in url:
-        string_list = url.split("q=")
-        string_list = string_list[1].split("&")
-        result = string_list[0] + " - Google"
-        result = result.replaceAll('+', ' ')
-        return string_list[0] + " - Google"
-    elif "yahoo" in url:
-        string_list = url.split("p=")
-        string_list = string_list[1].split("&")
-        result =  string_list[0] + " - Yahoo"
-        result = result.replaceAll('+', ' ')
-        return
-    elif "bing" in url:
-        string_list = url.split("q=")
-        string_list = string_list[1].split("&")
-        result = string_list[0] + " - Bing"
-        result = result.replaceAll('+', ' ')
-        return string_list[0] + " - Bing"
-    elif "duckduckgo" in url:
-        string_list = url.split("q=")
-        string_list = string_list[1].split("&")
-        result = string_list[0] + " - DuckDuckGo"
-        result = result.replaceAll('+', ' ')
-        return string_list[0] + " - DuckDuckGo"
-    else:
-        return string_list[2]
+    return string_list[2]
 
 
 def get_active_window():
@@ -110,10 +83,7 @@ def get_chrome_url():
         window = win32gui.GetForegroundWindow()
         chromeControl = auto.ControlFromHandle(window)
         edit = chromeControl.EditControl()
-        try:
-            return "https://" + edit.GetValuePattern().Value
-        except:
-            return 0
+        return "https://" + edit.GetValuePattern().Value
     elif sys.platform in ["Mac", "darwin", "os2", "os2emx"]:
         textOfMyScript = (
             """tell app "google chrome" to get the url of the active tab of window 1"""
@@ -138,20 +108,12 @@ try:
         previous_site = ""
         if sys.platform not in ["linux", "linux2"]:
             new_window_name = get_active_window()
-            if "Google Chrome" in new_window_name:
-                url = get_chrome_url()
-                if url != 0:
-                    new_window_name = url_to_name(get_chrome_url())
-            if "Microsoft Edge" in new_window_name:
-                url = get_chrome_url()
-                if url != 0:
-                    new_window_name = url_to_name(get_chrome_url())
+            # if "Google Chrome" in new_window_name:
+            #     new_window_name = url_to_name(get_chrome_url())
         if sys.platform in ["linux", "linux2"]:
             new_window_name = l.get_active_window_x()
-            if "Google Chrome" in new_window_name:
-                new_window_name = l.get_chrome_url_x()
-            if "Microsoft Edge" in new_window_name:
-                new_window_name = l.get_chrome_url_x()
+            # if "Google Chrome" in new_window_name:
+            #     new_window_name = l.get_chrome_url_x()
 
         if active_window_name != new_window_name:
             activity_name = active_window_name
@@ -168,7 +130,6 @@ try:
                         activity.time_entries.append(time_entry)
 
                 if not exists:
-                    print(activity_name)
                     activity = Activity(activity_name, [time_entry])
                     activeList.activities.append(activity)
                 with open("activities.json", "w") as json_file:
@@ -184,3 +145,7 @@ try:
 except KeyboardInterrupt:
     with open("activities.json", "w") as json_file:
         json.dump(activeList.serialize(), json_file, indent=4, sort_keys=True)
+
+    # Delete the .pid file
+    if os.path.exists(".pid"):
+        os.remove(".pid")
