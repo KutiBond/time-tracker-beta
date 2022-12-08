@@ -22,7 +22,6 @@ function startServer() {
   });
 
   server.on('close', (code) => {
-    ipcRenderer.send('server-crashed', 'Server closed');
     hasStarted = false;
     startServer();
   });

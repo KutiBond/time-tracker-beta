@@ -180,11 +180,6 @@ app.whenReady().then(() => {
     openAtLogin: true,
     openAsHidden: true,
   });
-
-  // If the app's directory is system32 change it to the user's home directory
-  if (currentDir === 'C:\\Windows\\System32') {
-    process.chdir(app.getAppPath());
-  }
 });
 
 // If more than one instance of the app is running, this will make sure
