@@ -17,7 +17,7 @@ function watchFile(activities: any) {
           var data: any = window.fs.readFileSync(
             window.path.join(process.cwd(), 'data', 'activities.json')
           );
-          // Log
+          //  Parse the JSON
           var activitiesJSON = JSON.parse(data);
           activitiesJSON = activitiesJSON['activities'];
           activities(activitiesJSON);
@@ -58,13 +58,27 @@ export default function BasicExampleDataGrid() {
   ];
 
   // Wait until the renderer process is ready
-
   watchFile(setActivities);
 
   React.useEffect(() => {
     // Listen for the response from the main process
     var parsedActivities: any = [];
-    console.log(activities);
+    // If activities is empty, get the activities from the main process
+
+    if (activities.length === 0) {
+      try {
+        var data: any = window.fs.readFileSync(
+          window.path.join(process.cwd(), 'data', 'activities.json')
+        );
+        // Parse the JSON
+        var activitiesJSON = JSON.parse(data);
+        activitiesJSON = activitiesJSON['activities'];
+        setActivities(activitiesJSON);
+      } catch (err) {
+        console.log(err);
+      }
+    }
+
     activities.forEach((activity: any) => {
       activity.time_entries.forEach((time_entry: any, i2: any) => {
         parsedActivities.push({
