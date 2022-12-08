@@ -17,10 +17,14 @@ function watchFile(activities: any) {
           var data: any = window.fs.readFileSync(
             window.path.join(process.cwd(), 'data', 'activities.json')
           );
-          //  Parse the JSON
-          var activitiesJSON = JSON.parse(data);
-          activitiesJSON = activitiesJSON['activities'];
-          activities(activitiesJSON);
+          try {
+            //  Parse the JSON
+            var activitiesJSON = JSON.parse(data);
+            activitiesJSON = activitiesJSON['activities'];
+            activities(activitiesJSON);
+          } catch (err) {
+            console.log(err);
+          }
         }
       }
     );
