@@ -31,6 +31,13 @@ if not os.path.exists("data"):
 
 os.chdir("data")
 
+# If the program is already running, exit
+if os.path.exists("running"):
+    exit()
+else:
+    with open("running", "w") as f:
+        f.write("running")
+
 def url_to_name(url):
     string_list = url.split("/")
     return string_list[2]
@@ -118,3 +125,5 @@ try:
 except KeyboardInterrupt:
     with open("activities.json", "w") as json_file:
         json.dump(activeList.serialize(), json_file, indent=4, sort_keys=True)
+    
+    os.remove("running")

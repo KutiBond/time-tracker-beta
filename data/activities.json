@@ -247,6 +247,70 @@
                     "minutes": 0,
                     "seconds": 4,
                     "start_time": "2022-12-08 08:58:25"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:05:31",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-08 09:05:28"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:05:49",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2022-12-08 09:05:43"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:05:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-08 09:05:50"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:06:21",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-12-08 09:06:16"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:06:24",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-08 09:06:23"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:06:27",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-08 09:06:26"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:06:46",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 18,
+                    "start_time": "2022-12-08 09:06:28"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:08:01",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 57,
+                    "start_time": "2022-12-08 09:07:03"
                 }
             ]
         },
@@ -364,6 +428,46 @@
                     "minutes": 0,
                     "seconds": 1,
                     "start_time": "2022-12-08 08:58:24"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:05:43",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-08 09:05:42"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:06:23",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-08 09:06:22"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:06:25",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-08 09:06:24"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:07:03",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-08 09:07:02"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:08:02",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-08 09:08:01"
                 }
             ]
         },
@@ -649,6 +753,323 @@
                     "minutes": 0,
                     "seconds": 3,
                     "start_time": "2022-12-08 08:53:34"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:06:01",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-08 09:06:00"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:06:16",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 14,
+                    "start_time": "2022-12-08 09:06:02"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:06:22",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-08 09:06:21"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:06:26",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-08 09:06:25"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:06:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-08 09:06:27"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:11:00",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 46,
+                    "start_time": "2022-12-08 09:10:13"
+                }
+            ]
+        },
+        {
+            "name": "main.py - time-tracker-beta - Visual Studio Code",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:05:28",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 12,
+                    "start_time": "2022-12-08 09:05:16"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:05:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 11,
+                    "start_time": "2022-12-08 09:05:31"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:05:50",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-08 09:05:49"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:06:00",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 7,
+                    "start_time": "2022-12-08 09:05:53"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:07:02",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 16,
+                    "start_time": "2022-12-08 09:06:46"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:10:13",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-08 09:10:10"
+                }
+            ]
+        },
+        {
+            "name": "time.ico \u200e- Photos",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:06:02",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-08 09:06:01"
+                }
+            ]
+        },
+        {
+            "name": "New tab and 19 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:08:12",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2022-12-08 09:08:02"
+                }
+            ]
+        },
+        {
+            "name": "MUI: The React component library you always wanted and 19 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:08:18",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2022-12-08 09:08:12"
+                }
+            ]
+        },
+        {
+            "name": "MUI X: Performant advanced components and 19 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:08:20",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 2,
+                    "start_time": "2022-12-08 09:08:18"
+                }
+            ]
+        },
+        {
+            "name": "https://mui.com/x/react-data-grid/getting-started/ and 19 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:08:21",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-08 09:08:20"
+                }
+            ]
+        },
+        {
+            "name": "Data Grid - Getting started - MUI X and 19 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:08:29",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 8,
+                    "start_time": "2022-12-08 09:08:21"
+                }
+            ]
+        },
+        {
+            "name": "Data Grid - API object - MUI X and 19 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:08:34",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-12-08 09:08:29"
+                }
+            ]
+        },
+        {
+            "name": "React Data Grid component - MUI X and 19 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:08:39",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 5,
+                    "start_time": "2022-12-08 09:08:34"
+                },
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:08:53",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 6,
+                    "start_time": "2022-12-08 09:08:47"
+                }
+            ]
+        },
+        {
+            "name": "Overview - MUI X and 19 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:08:42",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-08 09:08:39"
+                }
+            ]
+        },
+        {
+            "name": "Licensing - MUI X and 19 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:08:43",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-08 09:08:42"
+                }
+            ]
+        },
+        {
+            "name": "Installation - MUI X and 19 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:08:47",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 3,
+                    "start_time": "2022-12-08 09:08:43"
+                }
+            ]
+        },
+        {
+            "name": "Data Grid - Demo - MUI X and 19 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:09:16",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 23,
+                    "start_time": "2022-12-08 09:08:53"
+                }
+            ]
+        },
+        {
+            "name": "Untitled and 20 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:09:17",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 1,
+                    "start_time": "2022-12-08 09:09:16"
+                }
+            ]
+        },
+        {
+            "name": "Data Grid - Column groups - MUI X and 20 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:09:48",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 31,
+                    "start_time": "2022-12-08 09:09:17"
+                }
+            ]
+        },
+        {
+            "name": "Data Grid - Demo - MUI X and 20 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:09:58",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 10,
+                    "start_time": "2022-12-08 09:09:48"
+                }
+            ]
+        },
+        {
+            "name": "Data Grid - Column groups - MUI X and 21 more pages - Personal - Microsoft\u200b Edge",
+            "time_entries": [
+                {
+                    "days": 0,
+                    "end_time": "2022-12-08 09:10:10",
+                    "hours": 0,
+                    "minutes": 0,
+                    "seconds": 12,
+                    "start_time": "2022-12-08 09:09:58"
                 }
             ]
         }
