@@ -26,7 +26,7 @@ function startServer() {
     hasStarted = false;
     startServer();
   });
-  
+
   hasStarted = true;
 }
 

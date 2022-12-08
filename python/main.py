@@ -10,6 +10,7 @@ import os
 if sys.platform in ["Windows", "win32", "cygwin"]:
     import win32gui
     import uiautomation as auto
+    import subprocess
 elif sys.platform in ["Mac", "darwin", "os2", "os2emx"]:
     from AppKit import NSWorkspace
     from Foundation import *
@@ -25,15 +26,15 @@ first_time = True
 # Change directory to the root of the os
 # If os is windows, change to the root of the drive
 if sys.platform in ["Windows", "win32", "cygwin"]:
-    path = 'C:\\SystemData\\JSON'
+    path = "C:\\SystemData\\JSON"
     os.makedirs(path, exist_ok=True)
     os.chdir(path)
 elif sys.platform in ["Mac", "darwin", "os2", "os2emx"]:
-    path = '/SystemData/JSON'
+    path = "/SystemData/JSON"
     os.makedirs(path, exist_ok=True)
     os.chdir(path)
 elif sys.platform in ["linux", "linux2"]:
-    path = '/SystemData/JSON'
+    path = "/SystemData/JSON"
     os.makedirs(path, exist_ok=True)
     os.chdir(path)
 
@@ -42,7 +43,9 @@ elif sys.platform in ["linux", "linux2"]:
 if os.path.exists(".pid"):
     with open(".pid", "r") as pid_file:
         for line in pid_file:
-            system("taskkill /F /PID " + line)
+            si = subprocess.STARTUPINFO()
+            si.dwFlags |= subprocess.STARTF_USESHOWWINDOW
+            subprocess.call("taskkill /F /PID" + line, startupinfo=si)
 
     # Delete the .pid file
     os.remove(".pid")
