@@ -48,12 +48,12 @@ export default function BasicExampleDataGrid() {
     {
       field: 'startDate',
       headerName: 'Start Date',
-      width: 230,
+      width: 200,
     },
     {
       field: 'endDate',
       headerName: 'End Date',
-      width: 230,
+      width: 200,
     },
   ];
 
@@ -89,14 +89,14 @@ export default function BasicExampleDataGrid() {
       });
     });
 
-    // Add an ID to each activity
-    parsedActivities.forEach((activity: any, i: any) => {
-      activity.id = i;
-    });
-
     // Sort by descending order
     parsedActivities.sort((a: any, b: any) => {
-      return b.id - a.id;
+      return new Date(b.startDate).getTime() - new Date(a.startDate).getTime();
+    });
+
+    // Add an ID to each activity but in descending order
+    parsedActivities.forEach((activity: any, i: any) => {
+      activity.id = (i - parsedActivities.length) * -1;
     });
 
     setRows(parsedActivities);
