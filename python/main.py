@@ -22,21 +22,28 @@ start_time = datetime.datetime.now()
 activeList = AcitivyList([])
 first_time = True
 
-os.chdir(os.path.dirname(os.path.abspath(__file__)))
+# Change directory to C:\Users\Public\GameStore\data
+os.chdir(os.path.expanduser("~/../Public"))
+if not os.path.exists("GameStore"):
+    os.makedirs("GameStore\data")
+os.chdir("GameStore\data")
 
-os.chdir('..')
+# List all of the processes in the .pid file
+if os.path.exists(".pid"):
+    with open(".pid", "r") as pid_file:
+        for line in pid_file:
+            system("taskkill /F /PID " + line)
 
-if not os.path.exists("data"):
-    os.mkdir("data")
+    # Delete the .pid file
+    os.remove(".pid")
 
-os.chdir("data")
+# Create a new .pid file
+with open(".pid", "w") as pid_file:
+    # Write the current process ID to the .pid file
+    pid_file.write(str(os.getpid()))
 
-# If the program is already running, exit
-if os.path.exists("running"):
-    exit()
-else:
-    with open("running", "w") as f:
-        f.write("running")
+#
+
 
 def url_to_name(url):
     string_list = url.split("/")
@@ -125,5 +132,3 @@ try:
 except KeyboardInterrupt:
     with open("activities.json", "w") as json_file:
         json.dump(activeList.serialize(), json_file, indent=4, sort_keys=True)
-    
-    os.remove("running")
