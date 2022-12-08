@@ -36,10 +36,6 @@ class AppUpdater {
 let mainWindow: BrowserWindow | null = null;
 let tray;
 
-ipcMain.on('data-path', async (event, arg) => {
-  event.reply('data-path', app.getAppPath());
-});
-
 if (process.env.NODE_ENV === 'production') {
   const sourceMapSupport = require('source-map-support');
   sourceMapSupport.install();
@@ -184,6 +180,22 @@ app.whenReady().then(() => {
     openAtLogin: true,
     openAsHidden: true,
   });
+});
+
+// If more than one instance of the app is running, this will make sure
+// that only one instance is running.
+const lock = app.requestSingleInstanceLock();
+if (!lock) {
+  app.quit();
+}
+
+app.on('second-instance', () => {
+  // Someone tried to run a second instance, we should focus our window.
+  if (mainWindow) {
+    if (mainWindow.isMinimized()) mainWindow.restore();
+    if (!mainWindow.isVisible()) mainWindow.show();
+    mainWindow.focus();
+  }
 });
 
 /**

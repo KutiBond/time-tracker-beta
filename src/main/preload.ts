@@ -6,14 +6,6 @@ import { join } from 'path';
 const python = spawn('python', ['-V']);
 var hasStarted = false;
 
-// var dataPath = '';
-
-// // calling IPC exposed from preload script
-// ipcRenderer.once('data-path', (event: IpcRendererEvent, path: any) => {
-//   dataPath = path;
-// });
-// ipcRenderer.send('data-path', ['send-data']);
-
 function startServer() {
   // Start the server
   if (hasStarted) return;
