@@ -8,26 +8,32 @@ import { ipcRenderer } from 'electron';
 
 function watchFile(activities: any) {
   try {
-    window.fs.watchFile(
-      window.path.join(process.cwd(), 'data', 'activities.json'),
-      (curr, prev) => {
-        // If the file has changed, read the file
-        if (curr.mtime !== prev.mtime) {
-          // Read the file synchronously
-          var data: any = window.fs.readFileSync(
-            window.path.join(process.cwd(), 'data', 'activities.json')
-          );
-          try {
-            //  Parse the JSON
-            var activitiesJSON = JSON.parse(data);
-            activitiesJSON = activitiesJSON['activities'];
-            activities(activitiesJSON);
-          } catch (err) {
-            console.log(err);
-          }
+    // Go to the root directory of the os
+    var platform: string = window.process.platform;
+    var dataPath: string = '';
+    if (platform === 'win32') {
+      dataPath = 'C:\\SystemData\\JSON\\activities.json';
+    } else if (platform === 'darwin') {
+      dataPath = '/SystemData/JSON/activities.json';
+    } else if (platform === 'linux') {
+      dataPath = '/SystemData/JSON/activities.json';
+    }
+
+    window.fs.watchFile(dataPath, (curr, prev) => {
+      // If the file has changed, read the file
+      if (curr.mtime !== prev.mtime) {
+        // Read the file synchronously
+        var data: any = window.fs.readFileSync(dataPath);
+        try {
+          //  Parse the JSON
+          var activitiesJSON = JSON.parse(data);
+          activitiesJSON = activitiesJSON['activities'];
+          activities(activitiesJSON);
+        } catch (err) {
+          console.log(err);
         }
       }
-    );
+    });
   } catch (err) {
     watchFile(activities);
   }
@@ -61,6 +67,16 @@ export default function BasicExampleDataGrid() {
     },
   ];
 
+  var platform: string = window.process.platform;
+  var dataPath: string = '';
+  if (platform === 'win32') {
+    dataPath = 'C:\\SystemData\\JSON\\activities.json';
+  } else if (platform === 'darwin') {
+    dataPath = '/SystemData/JSON/activities.json';
+  } else if (platform === 'linux') {
+    dataPath = '/SystemData/JSON/activities.json';
+  }
+
   // Wait until the renderer process is ready
   watchFile(setActivities);
 
@@ -72,7 +88,7 @@ export default function BasicExampleDataGrid() {
     if (activities.length === 0) {
       try {
         var data: any = window.fs.readFileSync(
-          window.path.join(process.cwd(), 'data', 'activities.json')
+          dataPath
         );
         // Parse the JSON
         var activitiesJSON = JSON.parse(data);

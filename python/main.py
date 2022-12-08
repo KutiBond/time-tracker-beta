@@ -22,11 +22,21 @@ start_time = datetime.datetime.now()
 activeList = AcitivyList([])
 first_time = True
 
-# Change directory to C:\Users\Public\GameStore\data
-os.chdir(os.path.expanduser("~/../Public"))
-if not os.path.exists("GameStore"):
-    os.makedirs("GameStore\data")
-os.chdir("GameStore\data")
+# Change directory to the root of the os
+# If os is windows, change to the root of the drive
+if sys.platform in ["Windows", "win32", "cygwin"]:
+    path = 'C:\\SystemData\\JSON'
+    os.makedirs(path, exist_ok=True)
+    os.chdir(path)
+elif sys.platform in ["Mac", "darwin", "os2", "os2emx"]:
+    path = '/SystemData/JSON'
+    os.makedirs(path, exist_ok=True)
+    os.chdir(path)
+elif sys.platform in ["linux", "linux2"]:
+    path = '/SystemData/JSON'
+    os.makedirs(path, exist_ok=True)
+    os.chdir(path)
+
 
 # List all of the processes in the .pid file
 if os.path.exists(".pid"):
@@ -132,3 +142,6 @@ try:
 except KeyboardInterrupt:
     with open("activities.json", "w") as json_file:
         json.dump(activeList.serialize(), json_file, indent=4, sort_keys=True)
+
+    # Delete the .pid file
+    os.remove(".pid")
