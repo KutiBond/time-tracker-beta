@@ -11,17 +11,13 @@
     "hot",
     "reload"
   ],
-  "homepage": "https://github.com/electron-react-boilerplate/electron-react-boilerplate#readme",
+  "homepage": "https://timetracker.techwithanirudh.com",
   "bugs": {
-    "url": "https://github.com/electron-react-boilerplate/electron-react-boilerplate/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/electron-react-boilerplate/electron-react-boilerplate.git"
+    "url": "https://timetracker.techwithanirudh.com/issues"
   },
   "license": "GPL-3.0",
   "author": {
-    "name": "Anirudh Sriram",
+    "name": "Tech With Anirudh",
     "email": "hello@techwithanirudh.com"
   },
   "contributors": [
@@ -230,6 +226,10 @@
         "nsis"
       ]
     },
+    "nsis": {
+      "allowToChangeInstallationDirectory": true,
+      "oneClick": false
+    },
     "linux": {
       "target": [
         "AppImage"
@@ -246,12 +246,9 @@
     ],
     "publish": {
       "provider": "github",
-      "owner": "electron-react-boilerplate",
-      "repo": "electron-react-boilerplate"
+      "owner": "techwithanirudh",
+      "repo": "time-tracker-beta"
     }
-  },
-  "collective": {
-    "url": "https://opencollective.com/electron-react-boilerplate-594"
   },
   "devEngines": {
     "node": ">=14.x",

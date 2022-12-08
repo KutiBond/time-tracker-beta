@@ -95,6 +95,15 @@ const createWindow = async () => {
 
   mainWindow.loadURL(resolveHtmlPath('index.html'));
 
+  mainWindow.on('close', (event) => {
+    if (app.quitting) {
+      mainWindow = null;
+    } else {
+      event.preventDefault();
+      mainWindow!.hide();
+    }
+  });
+
   // When you recive a message saying python is not installed
   ipcMain.on('python-not-installed', (event, arg) => {
     // Alert the user to install python
@@ -159,14 +168,8 @@ app.whenReady().then(() => {
   tray = new Tray(icon);
 
   const contextMenu = Menu.buildFromTemplate([
-    { label: 'Exit', type: 'normal', click: () => app.quit() },
-    { label: 'View Logs', type: 'normal', click: () => mainWindow!.show() },
-    {
-      label: 'Open JSON',
-      type: 'normal',
-      click: () =>
-        shell.openPath(path.join(process.cwd(), 'data', 'activities.json')),
-    },
+    { label: 'Open', type: 'normal', click: () => mainWindow!.show() },
+    { label: 'Quit', type: 'normal', click: () => app.quit() },
   ]);
 
   tray.setToolTip('Time Tracker');
@@ -184,6 +187,11 @@ app.on('window-all-closed', () => {
     app.quit();
   }
 });
+app.on('activate', () => {
+  mainWindow.show();
+});
+
+app.on('before-quit', () => (app.quitting = true));
 
 app
   .whenReady()

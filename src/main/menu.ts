@@ -199,7 +199,7 @@ export default class MenuBuilder {
         label: '&File',
         submenu: [
           {
-            label: '&Open',
+            label: '&Open JSON',
             accelerator: 'Ctrl+O',
           },
           {
@@ -263,7 +263,7 @@ export default class MenuBuilder {
                 type: 'info',
                 title: 'About',
                 message:
-                  'This is a computer monitoring application. This is built by Anirudh Sriram',
+                  'This is a computer monitoring application. This is built by Anirudh Sriram (Tech With Anirudh)',
               });
             },
           },

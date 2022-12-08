@@ -1,10 +1,10 @@
 {
   "name": "time-tracker",
-  "version": "4.6.0",
+  "version": "1.0.0",
   "description": "A simple time tracker to keep track of your time",
   "license": "GPL-3.0",
   "author": {
-    "name": "Anirudh Sriram",
+    "name": "Tech With Anirudh",
     "email": "hello@techwithanirudh.com"
   },
   "main": "./dist/main/main.js",
