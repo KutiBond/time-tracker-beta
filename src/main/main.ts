@@ -18,6 +18,7 @@ import {
   Tray,
   Menu,
   nativeImage,
+  Notification,
 } from 'electron';
 import { autoUpdater } from 'electron-updater';
 import log from 'electron-log';
@@ -35,10 +36,8 @@ class AppUpdater {
 let mainWindow: BrowserWindow | null = null;
 let tray;
 
-ipcMain.on('ipc-example', async (event, arg) => {
-  const msgTemplate = (pingPong: string) => `IPC test: ${pingPong}`;
-  console.log(msgTemplate(arg));
-  event.reply('ipc-example', msgTemplate('pong'));
+ipcMain.on('data-path', async (event, arg) => {
+  event.reply('data-path', app.getAppPath());
 });
 
 if (process.env.NODE_ENV === 'production') {
@@ -116,13 +115,17 @@ const createWindow = async () => {
   });
 
   // When you recive a message saying the server crashed
-  ipcMain.on('server-crashed', (event, arg) => {
+  ipcMain.on('server-crashed', (event, err) => {
     // Alert the user to install python
-    // dialog.showMessageBox({
-    //   type: 'error',
-    //   title: 'Server Crashed',
-    //   message: 'The server has crashed. The server will autorestart.',
-    // });
+    // Get the error message
+    const errorMessage: string = err;
+
+    // Typescript definition for notification is wrong
+    // @ts-ignore
+    new Notification({
+      title: 'Server Crashed',
+      body: errorMessage,
+    }).show();
   });
 
   mainWindow.on('ready-to-show', () => {
@@ -176,6 +179,13 @@ app.whenReady().then(() => {
   tray.setContextMenu(contextMenu);
 });
 
+app.whenReady().then(() => {
+  app.setLoginItemSettings({
+    openAtLogin: true,
+    openAsHidden: true,
+  });
+});
+
 /**
  * Add event listeners...
  */
@@ -188,7 +198,7 @@ app.on('window-all-closed', () => {
   }
 });
 app.on('activate', () => {
-  mainWindow.show();
+  mainWindow!.show();
 });
 
 app.on('before-quit', () => (app.quitting = true));

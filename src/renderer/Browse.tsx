@@ -39,7 +39,7 @@ function watchFile(activities: any) {
   }
 }
 
-export default function BasicExampleDataGrid() {
+export default function Browse() {
   // Check if python is installed
   const [activities, setActivities] = React.useState<any>([]);
   const [rows, setRows] = React.useState<any>([]);

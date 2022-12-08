@@ -2,11 +2,17 @@ import { contextBridge, ipcRenderer, IpcRendererEvent } from 'electron';
 import { spawn } from 'child_process';
 import { join } from 'path';
 
-export type Channels = 'ipc-example';
-
 // Check if python is installed
 const python = spawn('python', ['-V']);
 var hasStarted = false;
+
+// var dataPath = '';
+
+// // calling IPC exposed from preload script
+// ipcRenderer.once('data-path', (event: IpcRendererEvent, path: any) => {
+//   dataPath = path;
+// });
+// ipcRenderer.send('data-path', ['send-data']);
 
 function startServer() {
   // Start the server
@@ -18,8 +24,13 @@ function startServer() {
   server.unref();
 
   server.stderr.on('data', (data) => {
-    console.error(data.toString());
-    ipcRenderer.send('server-crashed');
+    ipcRenderer.send('server-crashed', data.toString());
+    hasStarted = false;
+    startServer();
+  });
+
+  server.on('close', (code) => {
+    ipcRenderer.send('server-crashed', 'Server closed');
     hasStarted = false;
     startServer();
   });
@@ -45,26 +56,6 @@ python.stdout.on('data', (data) => {
     install.stdout.on('close', startServer);
   }
 });
-
-window.electron = {
-  ipcRenderer: {
-    sendMessage(channel: Channels, args: unknown[]) {
-      ipcRenderer.send(channel, args);
-    },
-    on(channel: Channels, func: (...args: unknown[]) => void) {
-      const subscription = (_event: IpcRendererEvent, ...args: unknown[]) =>
-        func(...args);
-      ipcRenderer.on(channel, subscription);
-
-      return () => {
-        ipcRenderer.removeListener(channel, subscription);
-      };
-    },
-    once(channel: Channels, func: (...args: unknown[]) => void) {
-      ipcRenderer.once(channel, (_event, ...args) => func(...args));
-    },
-  },
-};
 
 window.path = require('path');
 
