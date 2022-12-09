@@ -175,10 +175,15 @@ app.whenReady().then(() => {
   tray.setContextMenu(contextMenu);
 });
 
-app.whenReady().then(() => {
+app.whenReady().then(() => { 
+  if (process.argv.includes('--hidden')) {
+    mainWindow!.hide();
+  }
+  
   app.setLoginItemSettings({
     openAtLogin: true,
     openAsHidden: true,
+    path: app.getPath('exe') + ' --hidden',
   });
 });
 
