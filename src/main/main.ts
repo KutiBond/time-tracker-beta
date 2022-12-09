@@ -95,7 +95,15 @@ const createWindow = async () => {
       mainWindow = null;
     } else {
       event.preventDefault();
-      mainWindow!.hide();
+      mainWindow?.hide();
+    }
+  });
+
+  mainWindow.on('ready-to-show', () => {
+    if (app.commandLine.hasSwitch('hidden')) {
+      setTimeout(() => {
+        mainWindow?.hide();
+      }, 1);
     }
   });
 
@@ -167,7 +175,7 @@ app.whenReady().then(() => {
   tray = new Tray(icon);
 
   const contextMenu = Menu.buildFromTemplate([
-    { label: 'Open', type: 'normal', click: () => mainWindow!.show() },
+    { label: 'Open', type: 'normal', click: () => mainWindow?.show() },
     { label: 'Quit', type: 'normal', click: () => app.quit() },
   ]);
 
@@ -175,11 +183,7 @@ app.whenReady().then(() => {
   tray.setContextMenu(contextMenu);
 });
 
-app.whenReady().then(() => { 
-  if (process.argv.includes('--hidden')) {
-    mainWindow!.hide();
-  }
-  
+app.whenReady().then(() => {
   app.setLoginItemSettings({
     openAtLogin: true,
     openAsHidden: true,
@@ -215,7 +219,7 @@ app.on('window-all-closed', () => {
   }
 });
 app.on('activate', () => {
-  mainWindow!.show();
+  mainWindow?.show();
 });
 
 app.on('before-quit', () => (app.quitting = true));
