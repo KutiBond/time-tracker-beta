@@ -48,6 +48,31 @@ if (isDebug) {
   require('electron-debug')();
 }
 
+// When you recive a message saying python is not installed
+ipcMain.on('python-not-installed', (event, arg) => {
+  // Alert the user to install python
+  dialog.showMessageBox({
+    type: 'error',
+    title: 'Python Not Installed',
+    message:
+      'Python is not installed on your computer. Please install it to continue. Go to https://www.python.org/downloads/ to download it. When you have installed it, restart the app.',
+  });
+});
+
+// When you recive a message saying the server crashed
+ipcMain.on('server-crashed', (event, err) => {
+  // Alert the user to install python
+  // Get the error message
+  const errorMessage: string = err;
+
+  // Typescript definition for notification is wrong
+  // @ts-ignore
+  new Notification({
+    title: 'Server Crashed',
+    body: errorMessage,
+  }).show();
+});
+
 const installExtensions = async () => {
   const installer = require('electron-devtools-installer');
   const forceDownload = !!process.env.UPGRADE_EXTENSIONS;
@@ -107,32 +132,7 @@ const createWindow = async () => {
     }
   });
 
-  // When you recive a message saying python is not installed
-  ipcMain.on('python-not-installed', (event, arg) => {
-    // Alert the user to install python
-    dialog.showMessageBox({
-      type: 'error',
-      title: 'Python Not Installed',
-      message:
-        'Python is not installed on your computer. Please install it to continue. Go to https://www.python.org/downloads/ to download it. When you have installed it, restart the app.',
-    });
-  });
-
-  // When you recive a message saying the server crashed
-  ipcMain.on('server-crashed', (event, err) => {
-    // Alert the user to install python
-    // Get the error message
-    const errorMessage: string = err;
-
-    // Typescript definition for notification is wrong
-    // @ts-ignore
-    new Notification({
-      title: 'Server Crashed',
-      body: errorMessage,
-    }).show();
-  });
-
-  mainWindow.on('ready-to-show', () => {
+  mainWindow?.on('ready-to-show', () => {
     if (!mainWindow) {
       throw new Error('"mainWindow" is not defined');
     }
@@ -143,7 +143,7 @@ const createWindow = async () => {
     }
   });
 
-  mainWindow.on('closed', () => {
+  mainWindow?.on('closed', () => {
     mainWindow = null;
   });
 

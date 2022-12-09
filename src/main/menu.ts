@@ -5,6 +5,7 @@ import {
   BrowserWindow,
   MenuItemConstructorOptions,
   dialog,
+  ipcRenderer,
 } from 'electron';
 
 interface DarwinMenuItemConstructorOptions extends MenuItemConstructorOptions {
@@ -55,7 +56,7 @@ export default class MenuBuilder {
 
   buildDarwinTemplate(): MenuItemConstructorOptions[] {
     const subMenuAbout: DarwinMenuItemConstructorOptions = {
-      label: 'Electron',
+      label: 'Time Tracker',
       submenu: [
         {
           label: 'About Time Tracker',
@@ -156,29 +157,14 @@ export default class MenuBuilder {
       label: 'Help',
       submenu: [
         {
-          label: 'Learn More',
+          label: 'About',
           click() {
-            shell.openExternal('https://electronjs.org');
-          },
-        },
-        {
-          label: 'Documentation',
-          click() {
-            shell.openExternal(
-              'https://github.com/electron/electron/tree/main/docs#readme'
-            );
-          },
-        },
-        {
-          label: 'Community Discussions',
-          click() {
-            shell.openExternal('https://www.electronjs.org/community');
-          },
-        },
-        {
-          label: 'Search Issues',
-          click() {
-            shell.openExternal('https://github.com/electron/electron/issues');
+            dialog.showMessageBox({
+              type: 'info',
+              title: 'About',
+              message:
+                'This is a computer monitoring application. This is built by Anirudh Sriram (Tech With Anirudh)',
+            });
           },
         },
       ],
@@ -198,10 +184,6 @@ export default class MenuBuilder {
       {
         label: '&File',
         submenu: [
-          {
-            label: '&Open JSON',
-            accelerator: 'Ctrl+O',
-          },
           {
             label: '&Close',
             accelerator: 'Ctrl+W',
